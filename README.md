@@ -6,8 +6,8 @@ A simple tool that scans one or more GitHub repositories, gathers metadata (like
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/YourOrg/github-auditor.git
-cd github-auditor
+git clone https://github.com/KrimsonJosh/Github-Auditer.git
+cd Github-Auditer
 pip install -r requirements.txt
 ```
 
